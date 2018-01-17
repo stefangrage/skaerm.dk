@@ -3,12 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skaerm.dk/om/</loc>
-    <lastmod>2018-01-17T23:25:36+01:00</lastmod>
+    <loc>https://skaerm.dk/portfolio/almentid/</loc>
+    <lastmod>2018-01-17T23:23:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skaerm.dk/portfolio/garagefilm/</loc>
+    <lastmod>2018-01-17T23:23:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skaerm.dk/portfolio/cphpix/</loc>
+    <lastmod>2018-01-17T23:23:03+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://skaerm.dk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skaerm.dk/portfolio/</loc>
+    <lastmod>2018-01-17T23:23:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -19,6 +35,7 @@
   
   <url>
     <loc>https://skaerm.dk/</loc>
+    <lastmod>2018-01-17T23:23:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   

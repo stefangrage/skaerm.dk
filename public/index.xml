@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <copyright>&amp;copy; skaerm</copyright>
+    <lastBuildDate>Wed, 17 Jan 2018 23:23:28 +0100</lastBuildDate>
     
 	<atom:link href="https://skaerm.dk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Almentid</title>
+      <link>https://skaerm.dk/portfolio/almentid/</link>
+      <pubDate>Wed, 17 Jan 2018 23:23:28 +0100</pubDate>
+      
+      <guid>https://skaerm.dk/portfolio/almentid/</guid>
+      <description>Stort projekt, masser af fjams.</description>
+    </item>
+    
+    <item>
+      <title>Garagefilm</title>
+      <link>https://skaerm.dk/portfolio/garagefilm/</link>
+      <pubDate>Wed, 17 Jan 2018 23:23:15 +0100</pubDate>
+      
+      <guid>https://skaerm.dk/portfolio/garagefilm/</guid>
+      <description>her går det for alvor løs!</description>
+    </item>
+    
+    <item>
+      <title>Cphpix</title>
+      <link>https://skaerm.dk/portfolio/cphpix/</link>
+      <pubDate>Wed, 17 Jan 2018 23:23:03 +0100</pubDate>
+      
+      <guid>https://skaerm.dk/portfolio/cphpix/</guid>
+      <description>Klam fjams Klam fjams</description>
+    </item>
     
   </channel>
 </rss>
