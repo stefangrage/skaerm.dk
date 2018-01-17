@@ -1,4 +1,33 @@
 baseURL = "https://skaerm.dk/"
 languageCode = "da-dk"
 title = "skaerm.dk"
+description = "Skaerm.dk - Webbureau fra Kbh"
+copyright = "&copy; skaerm"
 theme = "hugo-creative-portfolio-theme"
+
+[params]
+style = "pink"
+sidebarAbout = [
+  "Vi designer og udvikler webløsninger"
+  ]
+  
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = ""
+  
+    [[params.navlinks]]
+  name = "About me"
+  url = "about/"
+  
+  [[params.navlinks]]
+  name = "Services"
+  url = "services/"
+
+  [[params.navlinks]]
+  name = "Om"
+  url = "om/"
+
+  [[params.navlinks]]
+  name = "Kontakt"
+  url = "kontakt/"
