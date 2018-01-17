@@ -16,10 +16,6 @@ sidebarAbout = [
   name = "Portfolio"
   url = ""
   
-    [[params.navlinks]]
-  name = "About me"
-  url = "about/"
-  
   [[params.navlinks]]
   name = "Services"
   url = "services/"
