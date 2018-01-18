@@ -5,3 +5,5 @@ draft: false
 ---
 
 Jeg laver lidt af hvert. Og det vil jeg blive ved med.
+
+Det seneste jeg har lavet er et website for mig selv.
