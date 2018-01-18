@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>skaerm.dk</title>
-    <link>https://skaerm.dk/</link>
+    <link>https://stefangrage.github.io/skaerm.dk/</link>
     <description>Recent content on skaerm.dk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <copyright>&amp;copy; skaerm</copyright>
     <lastBuildDate>Wed, 17 Jan 2018 23:53:10 +0100</lastBuildDate>
     
-	<atom:link href="https://skaerm.dk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefangrage.github.io/skaerm.dk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Services</title>
-      <link>https://skaerm.dk/services/</link>
+      <link>https://stefangrage.github.io/skaerm.dk/services/</link>
       <pubDate>Wed, 17 Jan 2018 23:53:10 +0100</pubDate>
       
-      <guid>https://skaerm.dk/services/</guid>
+      <guid>https://stefangrage.github.io/skaerm.dk/services/</guid>
       <description>indhold sevices</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://skaerm.dk/kontakt/</link>
+      <link>https://stefangrage.github.io/skaerm.dk/kontakt/</link>
       <pubDate>Wed, 17 Jan 2018 23:53:04 +0100</pubDate>
       
-      <guid>https://skaerm.dk/kontakt/</guid>
+      <guid>https://stefangrage.github.io/skaerm.dk/kontakt/</guid>
       <description>indhold kontakt
 afrunding test test test
 stetes</description>
@@ -34,38 +34,38 @@ stetes</description>
     
     <item>
       <title>Om</title>
-      <link>https://skaerm.dk/om/</link>
+      <link>https://stefangrage.github.io/skaerm.dk/om/</link>
       <pubDate>Wed, 17 Jan 2018 23:52:56 +0100</pubDate>
       
-      <guid>https://skaerm.dk/om/</guid>
+      <guid>https://stefangrage.github.io/skaerm.dk/om/</guid>
       <description>Jeg laver lidt af hvert. Og det vil jeg blive ved med.
 Det seneste jeg har lavet er et website for mig selv.</description>
     </item>
     
     <item>
       <title>Design og udvikling af Almentid.dk</title>
-      <link>https://skaerm.dk/portfolio/almentid/</link>
+      <link>https://stefangrage.github.io/skaerm.dk/portfolio/almentid/</link>
       <pubDate>Wed, 17 Jan 2018 23:23:28 +0100</pubDate>
       
-      <guid>https://skaerm.dk/portfolio/almentid/</guid>
+      <guid>https://stefangrage.github.io/skaerm.dk/portfolio/almentid/</guid>
       <description>A lmentid.dk Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id consequat est. Praesent eu ullamcorper nibh, vitae eleifend risus. In hac habitasse platea dictumst. Maecenas et accumsan justo, id malesuada velit. Nullam velit sem, pharetra ut cursus a, dictum at lacus. In semper ex leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer vulputate enim non enim vulputate cursus. Quisque vestibulum urna efficitur odio varius volutpat.</description>
     </item>
     
     <item>
       <title>Garagefilm</title>
-      <link>https://skaerm.dk/portfolio/garagefilm/</link>
+      <link>https://stefangrage.github.io/skaerm.dk/portfolio/garagefilm/</link>
       <pubDate>Wed, 17 Jan 2018 23:23:15 +0100</pubDate>
       
-      <guid>https://skaerm.dk/portfolio/garagefilm/</guid>
+      <guid>https://stefangrage.github.io/skaerm.dk/portfolio/garagefilm/</guid>
       <description>her går det for alvor løs!</description>
     </item>
     
     <item>
       <title>Cphpix</title>
-      <link>https://skaerm.dk/portfolio/cphpix/</link>
+      <link>https://stefangrage.github.io/skaerm.dk/portfolio/cphpix/</link>
       <pubDate>Wed, 17 Jan 2018 23:23:03 +0100</pubDate>
       
-      <guid>https://skaerm.dk/portfolio/cphpix/</guid>
+      <guid>https://stefangrage.github.io/skaerm.dk/portfolio/cphpix/</guid>
       <description> Udvikling af WordPress-baseret løsning, integration med eventival </description>
     </item>
     
