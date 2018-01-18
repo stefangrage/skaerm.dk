@@ -1,10 +1,63 @@
 ---
-title: "Almentid"
+title: "Design og udvikling af Almentid.dk"
 date: 2018-01-17T23:23:28+01:00
 draft: false
 image: "imgs/trae.jpg"
 ---
+# A lmentid.dk
 
-Stort projekt, masser af fjams.
+![første img](/imgs/trae.jpg)
 
+Lorem __ipsum__ dolor sit *amet*, **consectetur** adipiscing elit. Aliquam id consequat est. Praesent eu ullamcorper nibh, vitae eleifend risus. In hac habitasse platea dictumst. Maecenas et accumsan justo, id malesuada velit. Nullam velit sem, pharetra ut cursus a, dictum at lacus. In semper ex leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer vulputate enim non enim vulputate cursus. Quisque vestibulum urna efficitur odio varius volutpat. Vivamus faucibus tincidunt tellus sed aliquam. In vel placerat dui, vitae lobortis lorem. Vivamus rutrum tincidunt magna vel aliquam. Aenean accumsan augue nunc, et efficitur augue elementum nec. Quisque auctor, nulla ornare elementum pellentesque, nisi nunc molestie nunc, id dictum erat dolor nec arcu.
 
+Originalen kan findes på: [google](http://google.com)
+
+### Næste sektion
+Nulla tincidunt pulvinar lobortis. Donec nec ante et justo volutpat eleifend in quis magna. Proin et felis id nunc viverra accumsan non sit amet magna. Fusce id porta dolor, feugiat ornare nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque et ligula tellus. Suspendisse volutpat eget neque non placerat. Nullam nec diam luctus, vestibulum lorem id, imperdiet mi. Nunc eu ante fermentum, ultricies augue at, interdum elit.
+
+Phasellus et lorem non mi elementum gravida ut vel quam. Nullam commodo diam id felis consectetur, nec aliquam lorem blandit. In maximus ac mi vel ultrices. Aenean viverra erat ac eros aliquet, non ornare ipsum gravida. Quisque placerat, est ac porta iaculis, dui libero porta erat, eu fermentum enim orci sed ante. Donec in diam eleifend, dapibus nisl sed, laoreet sapien. Fusce commodo a nisl non semper. Vivamus quis quam quis orci vehicula laoreet. Etiam sed metus interdum lacus aliquet tempus.
+
+#### Liste
+* Punkt 1
+* Punkt 2
+	* Punkt underpunkt
+	* Underpunkt 2
+		* Under-underpunkt
+* Punkt 3
+
+Nunc at ipsum sed mi laoreet egestas. Maecenas quis quam facilisis, fringilla nunc ut, vehicula metus. Donec auctor lobortis ligula ut aliquam. Proin venenatis molestie dui a porttitor. Mauris vestibulum libero tellus, non tristique felis ornare ut. Suspendisse ullamcorper, risus eu placerat accumsan, diam neque aliquam nisi, eget bibendum erat nulla id nisi. Maecenas vitae ultricies quam. Praesent nulla nisi, accumsan eget turpis at, lacinia cursus justo. Nulla rhoncus dui sit amet est volutpat, et placerat tellus semper.
+
+###### Sidste paragraf
+Etiam in lorem metus. Nam dignissim a quam quis interdum. Ut massa nunc, blandit sed nibh varius, fringilla interdum nisl. Mauris lacus libero, laoreet ac felis quis, hendrerit tincidunt felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In odio sem, porta ac odio eu, pharetra tempor augue. Nam pharetra erat sollicitudin risus fringilla, a accumsan odio vestibulum. Quisque gravida condimentum dui, vitae pharetra augue mollis in. Mauris suscipit libero tellus, iaculis venenatis nunc finibus at. Integer mauris nisi, ultricies sit amet arcu facilisis, laoreet viverra lorem. Proin sit amet egestas lorem, vitae dapibus eros. Pellentesque vitae ante porta enim euismod ornare ac nec nisi. Duis fermentum urna nec elit dapibus, vitae interdum leo pretium.
+
+![næste img](/imgs/nytaarsaften2017.jpg)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id consequat est. Praesent eu ullamcorper nibh, vitae eleifend risus. In hac habitasse platea dictumst. Maecenas et accumsan justo, id malesuada velit. Nullam velit sem, pharetra ut cursus a, dictum at lacus. In semper ex leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer vulputate enim non enim vulputate cursus. Quisque vestibulum urna efficitur odio varius volutpat. Vivamus faucibus tincidunt tellus sed aliquam. In vel placerat dui, vitae lobortis lorem. Vivamus rutrum tincidunt magna vel aliquam. Aenean accumsan augue nunc, et efficitur augue elementum nec. Quisque auctor, nulla ornare elementum pellentesque, nisi nunc molestie nunc, id dictum erat dolor nec arcu.
+
+Nulla tincidunt pulvinar lobortis. Donec nec ante et justo volutpat eleifend in quis magna. Proin et felis id nunc viverra accumsan non sit amet magna. Fusce id porta dolor, feugiat ornare nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque et ligula tellus. Suspendisse volutpat eget neque non placerat. Nullam nec diam luctus, vestibulum lorem id, imperdiet mi. Nunc eu ante fermentum, ultricies augue at, interdum elit.
+
+Phasellus et lorem non mi elementum gravida ut vel quam. Nullam commodo diam id felis consectetur, nec aliquam lorem blandit. In maximus ac mi vel ultrices. Aenean viverra erat ac eros aliquet, non ornare ipsum gravida. Quisque placerat, est ac porta iaculis, dui libero porta erat, eu fermentum enim orci sed ante. Donec in diam eleifend, dapibus nisl sed, laoreet sapien. Fusce commodo a nisl non semper. Vivamus quis quam quis orci vehicula laoreet. Etiam sed metus interdum lacus aliquet tempus.
+
+Nunc at ipsum sed mi laoreet egestas. Maecenas quis quam facilisis, fringilla nunc ut, vehicula metus. Donec auctor lobortis ligula ut aliquam. Proin venenatis molestie dui a porttitor. Mauris vestibulum libero tellus, non tristique felis ornare ut. Suspendisse ullamcorper, risus eu placerat accumsan, diam neque aliquam nisi, eget bibendum erat nulla id nisi. Maecenas vitae ultricies quam. Praesent nulla nisi, accumsan eget turpis at, lacinia cursus justo. Nulla rhoncus dui sit amet est volutpat, et placerat tellus semper.
+
+Etiam in lorem metus. Nam dignissim a quam quis interdum. Ut massa nunc, blandit sed nibh varius, fringilla interdum nisl. Mauris lacus libero, laoreet ac felis quis, hendrerit tincidunt felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In odio sem, porta ac odio eu, pharetra tempor augue. Nam pharetra erat sollicitudin risus fringilla, a accumsan odio vestibulum. Quisque gravida condimentum dui, vitae pharetra augue mollis in. Mauris suscipit libero tellus, iaculis venenatis nunc finibus at. Integer mauris nisi, ultricies sit amet arcu facilisis, laoreet viverra lorem. Proin sit amet egestas lorem, vitae dapibus eros. Pellentesque vitae ante porta enim euismod ornare ac nec nisi. Duis fermentum urna nec elit dapibus, vitae interdum leo pretium.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id consequat est. Praesent eu ullamcorper nibh, vitae eleifend risus. In hac habitasse platea dictumst. Maecenas et accumsan justo, id malesuada velit. Nullam velit sem, pharetra ut cursus a, dictum at lacus. In semper ex leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer vulputate enim non enim vulputate cursus. Quisque vestibulum urna efficitur odio varius volutpat. Vivamus faucibus tincidunt tellus sed aliquam. In vel placerat dui, vitae lobortis lorem. Vivamus rutrum tincidunt magna vel aliquam. Aenean accumsan augue nunc, et efficitur augue elementum nec. Quisque auctor, nulla ornare elementum pellentesque, nisi nunc molestie nunc, id dictum erat dolor nec arcu.
+
+Nulla tincidunt pulvinar lobortis. Donec nec ante et justo volutpat eleifend in quis magna. Proin et felis id nunc viverra accumsan non sit amet magna. Fusce id porta dolor, feugiat ornare nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque et ligula tellus. Suspendisse volutpat eget neque non placerat. Nullam nec diam luctus, vestibulum lorem id, imperdiet mi. Nunc eu ante fermentum, ultricies augue at, interdum elit.
+
+Phasellus et lorem non mi elementum gravida ut vel quam. Nullam commodo diam id felis consectetur, nec aliquam lorem blandit. In maximus ac mi vel ultrices. Aenean viverra erat ac eros aliquet, non ornare ipsum gravida. Quisque placerat, est ac porta iaculis, dui libero porta erat, eu fermentum enim orci sed ante. Donec in diam eleifend, dapibus nisl sed, laoreet sapien. Fusce commodo a nisl non semper. Vivamus quis quam quis orci vehicula laoreet. Etiam sed metus interdum lacus aliquet tempus.
+
+Nunc at ipsum sed mi laoreet egestas. Maecenas quis quam facilisis, fringilla nunc ut, vehicula metus. Donec auctor lobortis ligula ut aliquam. Proin venenatis molestie dui a porttitor. Mauris vestibulum libero tellus, non tristique felis ornare ut. Suspendisse ullamcorper, risus eu placerat accumsan, diam neque aliquam nisi, eget bibendum erat nulla id nisi. Maecenas vitae ultricies quam. Praesent nulla nisi, accumsan eget turpis at, lacinia cursus justo. Nulla rhoncus dui sit amet est volutpat, et placerat tellus semper.
+
+Etiam in lorem metus. Nam dignissim a quam quis interdum. Ut massa nunc, blandit sed nibh varius, fringilla interdum nisl. Mauris lacus libero, laoreet ac felis quis, hendrerit tincidunt felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In odio sem, porta ac odio eu, pharetra tempor augue. Nam pharetra erat sollicitudin risus fringilla, a accumsan odio vestibulum. Quisque gravida condimentum dui, vitae pharetra augue mollis in. Mauris suscipit libero tellus, iaculis venenatis nunc finibus at. Integer mauris nisi, ultricies sit amet arcu facilisis, laoreet viverra lorem. Proin sit amet egestas lorem, vitae dapibus eros. Pellentesque vitae ante porta enim euismod ornare ac nec nisi. Duis fermentum urna nec elit dapibus, vitae interdum leo pretium.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id consequat est. Praesent eu ullamcorper nibh, vitae eleifend risus. In hac habitasse platea dictumst. Maecenas et accumsan justo, id malesuada velit. Nullam velit sem, pharetra ut cursus a, dictum at lacus. In semper ex leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer vulputate enim non enim vulputate cursus. Quisque vestibulum urna efficitur odio varius volutpat. Vivamus faucibus tincidunt tellus sed aliquam. In vel placerat dui, vitae lobortis lorem. Vivamus rutrum tincidunt magna vel aliquam. Aenean accumsan augue nunc, et efficitur augue elementum nec. Quisque auctor, nulla ornare elementum pellentesque, nisi nunc molestie nunc, id dictum erat dolor nec arcu.
+
+Nulla tincidunt pulvinar lobortis. Donec nec ante et justo volutpat eleifend in quis magna. Proin et felis id nunc viverra accumsan non sit amet magna. Fusce id porta dolor, feugiat ornare nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque et ligula tellus. Suspendisse volutpat eget neque non placerat. Nullam nec diam luctus, vestibulum lorem id, imperdiet mi. Nunc eu ante fermentum, ultricies augue at, interdum elit.
+
+Phasellus et lorem non mi elementum gravida ut vel quam. Nullam commodo diam id felis consectetur, nec aliquam lorem blandit. In maximus ac mi vel ultrices. Aenean viverra erat ac eros aliquet, non ornare ipsum gravida. Quisque placerat, est ac porta iaculis, dui libero porta erat, eu fermentum enim orci sed ante. Donec in diam eleifend, dapibus nisl sed, laoreet sapien. Fusce commodo a nisl non semper. Vivamus quis quam quis orci vehicula laoreet. Etiam sed metus interdum lacus aliquet tempus.
+
+Nunc at ipsum sed mi laoreet egestas. Maecenas quis quam facilisis, fringilla nunc ut, vehicula metus. Donec auctor lobortis ligula ut aliquam. Proin venenatis molestie dui a porttitor. Mauris vestibulum libero tellus, non tristique felis ornare ut. Suspendisse ullamcorper, risus eu placerat accumsan, diam neque aliquam nisi, eget bibendum erat nulla id nisi. Maecenas vitae ultricies quam. Praesent nulla nisi, accumsan eget turpis at, lacinia cursus justo. Nulla rhoncus dui sit amet est volutpat, et placerat tellus semper.
+
+Etiam in lorem metus. Nam dignissim a quam quis interdum. Ut massa nunc, blandit sed nibh varius, fringilla interdum nisl. Mauris lacus libero, laoreet ac felis quis, hendrerit tincidunt felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In odio sem, porta ac odio eu, pharetra tempor augue. Nam pharetra erat sollicitudin risus fringilla, a accumsan odio vestibulum. Quisque gravida condimentum dui, vitae pharetra augue mollis in. Mauris suscipit libero tellus, iaculis venenatis nunc finibus at. Integer mauris nisi, ultricies sit amet arcu facilisis, laoreet viverra lorem. Proin sit amet egestas lorem, vitae dapibus eros. Pellentesque vitae ante porta enim euismod ornare ac nec nisi. Duis fermentum urna nec elit dapibus, vitae interdum leo pretium.
