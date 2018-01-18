@@ -4,18 +4,19 @@ title = "skaerm.dk"
 description = "Skaerm.dk - Webbureau fra Kbh"
 copyright = "&copy; skaerm"
 theme = "hugo-creative-portfolio-theme"
+publishDir = "docs"
 
 [params]
 style = "pink"
 sidebarAbout = [
   "Vi designer og udvikler webløsninger"
   ]
-  
+
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Portfolio"
   url = ""
-  
+
   [[params.navlinks]]
   name = "Services"
   url = "services/"

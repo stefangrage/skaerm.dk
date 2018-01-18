@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on skaerm.dk</title>
+    <link>https://skaerm.dk/portfolio/</link>
+    <description>Recent content in Portfolios on skaerm.dk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <copyright>&amp;copy; skaerm</copyright>
+    <lastBuildDate>Wed, 17 Jan 2018 23:23:28 +0100</lastBuildDate>
+    
+	<atom:link href="https://skaerm.dk/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design og udvikling af Almentid.dk</title>
+      <link>https://skaerm.dk/portfolio/almentid/</link>
+      <pubDate>Wed, 17 Jan 2018 23:23:28 +0100</pubDate>
+      
+      <guid>https://skaerm.dk/portfolio/almentid/</guid>
+      <description>A lmentid.dk Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id consequat est. Praesent eu ullamcorper nibh, vitae eleifend risus. In hac habitasse platea dictumst. Maecenas et accumsan justo, id malesuada velit. Nullam velit sem, pharetra ut cursus a, dictum at lacus. In semper ex leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer vulputate enim non enim vulputate cursus. Quisque vestibulum urna efficitur odio varius volutpat.</description>
+    </item>
+    
+    <item>
+      <title>Garagefilm</title>
+      <link>https://skaerm.dk/portfolio/garagefilm/</link>
+      <pubDate>Wed, 17 Jan 2018 23:23:15 +0100</pubDate>
+      
+      <guid>https://skaerm.dk/portfolio/garagefilm/</guid>
+      <description>her går det for alvor løs!</description>
+    </item>
+    
+    <item>
+      <title>Cphpix</title>
+      <link>https://skaerm.dk/portfolio/cphpix/</link>
+      <pubDate>Wed, 17 Jan 2018 23:23:03 +0100</pubDate>
+      
+      <guid>https://skaerm.dk/portfolio/cphpix/</guid>
+      <description> Udvikling af WordPress-baseret løsning, integration med eventival </description>
+    </item>
+    
+  </channel>
+</rss>
